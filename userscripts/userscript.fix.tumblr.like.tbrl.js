@@ -59,7 +59,7 @@
       return;
     }
     var key = keyString(ev);
-    if (key === 'L') {
+    if (key === '3') {
       toggleLike(current);
     }
   });
